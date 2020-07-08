@@ -1,0 +1,17 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "main": "board.js",
+  "dependencies": {
+    "figlet": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node hello.js.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
